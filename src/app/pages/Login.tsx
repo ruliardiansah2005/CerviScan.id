@@ -14,7 +14,7 @@ export default function Login() {
   const t = {
     en: {
       title: "Take Control of Your \n Reproductive Health.",
-      subtitle: "CERVISCAN™ Care provides real-time monitoring and early detection powered by advanced AI technology.",
+      subtitle: "CERVISCAN™ provides real-time monitoring and early detection powered by advanced AI technology.",
       welcome: "Welcome Back! 👋",
       signInMsg: "Sign in to monitor your health journey.",
       email: "Email Address",
