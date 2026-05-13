@@ -65,7 +65,7 @@ export default function Splash() {
       >
         <Logo 
           className="scale-125 md:scale-150 mb-2" 
-          suffix={<span className="font-light text-gray-700">Care</span>} 
+          suffix={<span className="font-light text-gray-700"></span>} 
         />
       </motion.div>
 
