@@ -70,7 +70,7 @@ export default function Login() {
           transition={{ duration: 0.8 }}
           className="relative z-10 text-center text-white space-y-6 max-w-lg flex flex-col items-center"
         >
-          <Logo variant="white" suffix={<span className="font-light">Care</span>} className="scale-125 mb-4" />
+          <Logo variant="white" suffix={<span className="font-light"></span>} className="scale-125 mb-4" />
           <h1 className="text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mt-4 whitespace-pre-line">
             {currentT.title}
           </h1>
